@@ -1,0 +1,32 @@
+
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+@import url("https://fonts.googleapis.com/css2?family=Amaranth:wght@700&family=Martel+Sans&family=Merriweather&display=swap");
+
+body {
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+	margin: 0px;
+	color: #230007;
+}
+h1 {
+	font-family: 'Amaranth', sans-serif;
+	font-weight: bold;
+}
+h2 {
+	font-family: 'Martel Sans', sans-serif;
+	color: yellow;
+}
+h4 {
+	font-family: 'Amaranth'; sans-serif;
+	color: darkred;
+}
+a {
+	text-decoration: none;
+	font-family: 'Amaranth', sans-serif;
+}
